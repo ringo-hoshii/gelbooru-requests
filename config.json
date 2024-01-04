@@ -1,0 +1,5 @@
+{"initialdir": "D:/IT/Python/requests/media",
+ "default_pid": 0,
+ "gelbooru_view_link": "https://gelbooru.com/index.php?page=post&s=view&id=",
+ "chrome_path": "C:/Program Files/Google/Chrome/Application/chrome.exe %s",
+ "blacklisted_tags": "-lucas_lee"}
