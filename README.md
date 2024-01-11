@@ -28,6 +28,7 @@ Tags is the same text as the one you put in search field on the site, including 
 This will download 100 posts on specified page (0 by default) in ./media/[TAGS]/ (inside the folder named as the tags you typed in inside the folder "media" inside current folder).
 
 Example:
-python ~/gelbooru-requests/main.py "1girl purple_hair animated rating:general" 0
-Say, your current working directory is ~/Downloads/Pictures/Anime/
-The script will download posts in "~/Downloads/Pictures/Anime/media/1girl purple_hair animated rating_general"
+python \~/gelbooru-requests/main.py "1girl purple_hair animated rating:general" 0
+
+Say, your current working directory is \~/Downloads/Pictures/Anime/
+The script will download posts in "\~/Downloads/Pictures/Anime/media/1girl purple_hair animated rating_general"
