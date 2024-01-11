@@ -4,6 +4,12 @@ Script that is downloading recent gelbooru media specified by tags.
 # Prerequisites
 You should have Python installed with "requests" library that can be downloaded through "pip install requests".
 
+# Installation
+Before proceeding to practical use, you need to clone the repository.
+It can be done in two ways:
+1. Download ZIP-archive
+2. In the command line type "git clone http://github.com/ringo-hoshii/gelbooru-requests"
+
 # Usage
 ## GUI
 Graphical interface is quite intuitive, you just use it as the site.
