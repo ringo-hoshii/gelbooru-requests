@@ -2,7 +2,8 @@ import requests
 import json
 import os, sys, webbrowser
 
-with open("config.json") as file:
+configpath = "/".join(__file__.split("/")[0:-1])
+with open(configpath + "/config.json") as file:
     config = json.loads(file.read())
 
 BASE_LINK = "https://gelbooru.com/index.php?page=dapi&s=post&q=index&json=1"
